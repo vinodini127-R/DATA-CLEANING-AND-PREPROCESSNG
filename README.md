@@ -12,3 +12,6 @@ Netflix Movies and TV Shows from Kaggle.
 - Cleaned column headers (snake_case).
 - Removed duplicate rows.
 - Saved final cleaned data to `netflix_cleaned.csv`.
+
+##OUTPUT:
+<img width="1356" height="895" alt="Image" src="https://github.com/user-attachments/assets/8902d2f7-70a7-4883-bd10-edc903011897" />
